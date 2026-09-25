@@ -28,7 +28,7 @@
 
 
 ==============================================
-Android Activity Utilities manuals authors
+Android Display Dim manuals authors
 ==============================================
 
 * Pellegrino Prevete
